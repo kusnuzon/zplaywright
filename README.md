@@ -17,7 +17,7 @@ curl -O "[https://raw.githubusercontent.com/kusnuzon/zplaywright/main/tes.py](ht
 python tes.py
 
 ```
-If it prints Example Domain, you are good to go!
+If it prints `Example Domain`, you are good to go!
 ## 💻 Python Setup Code
 When writing your own script, you **must** use this browser configuration:
 ```python
